@@ -1,4 +1,4 @@
-# Agentic Research Agent
+# Agentic Research Model Agent
 
 A Python-based autonomous research agent that solves multi-step analysis tasks using tool integration and iterative reasoning.
 
